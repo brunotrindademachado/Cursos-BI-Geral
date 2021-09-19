@@ -1,0 +1,43 @@
+
+1 Qual é o total da Receita Bruta considerando os anos de 2017, 2018 e 2019?
+
+Resposta: R$ 150,73 mi.
+
+2 Em que ano a empresa teve o menor custo? Qual foi o valor?
+
+Resposta: O menor custo foi no ano de 2017 com valor de  -R$ 18.028,40 mil
+
+3 Qual foi o Resultado Bruto do ano de 2019?
+
+Resposta: R$ 30.921,55 mil
+
+4 Qual o valor das despesas operacionais em 2017?
+
+Resposta: -R$ 13.321,87 mil
+
+5 Qual o valor do Resultado Financeiro do ano de 2018?
+
+Resposta: -R$ 4.030,30 mil
+
+6 Qual o EBITDA acumulado dos anos de 2017, 2018 e 2019?
+
+Resposta: R$ 38,90 mi.
+
+7 Qual foi o Lucro Líquido do ano de 2019?
+
+Resposta: R$ 12.188,33 mil
+
+8 Qual foi a variação entre o Lucro Líquido de 2018 em relação à 2017?
+
+Resposta: 45,72%
+
+9 Qual o percentual de lucro se aumentar em 15% a receita com base no resultado de 2018?
+
+Resposta:  42,74%
+
+10 Qual o percentual de lucro se diminuir o custo em 10% com base no resultado de 2018?
+
+Resposta:  37,98%
+
+
+
