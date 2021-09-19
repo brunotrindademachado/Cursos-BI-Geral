@@ -1,0 +1,61 @@
+1 Qual é o orçamento total e qual o valor gasto até o momento?
+
+Resposta: 
+Orçamento: R$ 1.367.420
+Total Gasto: R$ 863.295
+
+2 Quantas horas de trabalho estão previstas na Linha de Base e quantas horas de trabalho foram realizadas?
+
+Resposta: 9.515 horas e 6.987 horas respectivamente.
+
+3 Qual é o percentual de horas trabalhadas e o percentual de orçamento consumido até o momento? 
+Resposta: 73% e 63% respectivamente.
+
+4 Os projetos estão distribuídos em quais Áreas? Quantos projetos por Área?
+
+Resposta: Engenharia (3), Qualidade (2), Tecnologia (1)
+
+8 Qual é o Gerente com maior número de Projetos?
+
+Resposta: Marcelo
+
+5 Qual é o projeto com a duração planejada mais longa?  Quem é o Gerente?
+
+Resposta: Construção de Estacionamento com 208 dias e o gerente é Leonardo.
+
+6 Algum projeto já foi concluído? Qual? Qual?
+
+Resposta: Sim, Reforma do Galpão
+
+7 De todos os projetos, qual apresenta o maior número de KPIs não atendidos?
+
+Resposta: O projeto Bomba de Gasolina está com os KPIs de Custo e Trabalho fora dos limites.
+
+8 No projeto Bomba de Gasolina, qual foi o mês com maior diferença entre as horas de trabalho da linha de base comparado com o trabalho?
+
+Resposta: Junho. Linha de base: 80h e Realizado: 1.008h.
+
+
+9 Pela exibição do Gráfico de Gantt, qual a sequência de conclusão dos projetos? 
+
+Resposta: Reforma do Galpão, Processo de Logística, Bomba de Gasolina, Normas de Segurança, Construção do Estacionamento e Instalação dos Equipamentos.
+
+10 Qual é o percentual de conclusão e duração do Projeto de Processos de Logística? 
+
+Resposta: 87% e 150 dias.
+
+11 Há quantas tarefas ao todo no Projeto de Processos de Logística e qual o percentual delas são tarefas críticas? 
+
+Resposta: 23 tarefas. 17% são tarefas críticas.
+
+12 Quais são as tarefas que ainda precisam ser concluídas no Projeto de Processos de Logística? 
+
+Resposta: Elaborar o treinamento, Obter a aprovação e 
+Realizar o Treinamento.
+
+13 No Projeto da Bomba de Gasolina, a partir de qual mês se observa o descolamento da Curva S do Custo Acumulado do Custo da Linha de Base Acumulado?
+
+Resposta: Maio/2021
+
+
+
